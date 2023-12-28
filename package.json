@@ -1,0 +1,17 @@
+{
+  "name": "advent-of-code-2023",
+  "version": "1.0.0",
+  "description": "this is my collections of answers for the yearly puzzle of adventofcode",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
